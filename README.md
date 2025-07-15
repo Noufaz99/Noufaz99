@@ -1,8 +1,8 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />  
-<h2> ، أنا نوف الزهراني | Nouf Alzahrani </h2>
-<p><b>مهتمة بالرياضيات، الذكاء الاصطناعي، تحليل البيانات، علوم البيانات، والأمن السيبراني.</b></p>
+<h2>   نوف الزهراني | Nouf Alzahrani </h2>
+<p><b الرياضيات، الذكاء الاصطناعي، تحليل البيانات، علوم البيانات، والأمن السيبراني. </b></p>
 
 </div>
 
@@ -55,15 +55,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 🎯 أهدافي القادمة
-- ✅ تطوير مشاريع تحليل بيانات حقيقية باستخدام بايثون وPower BI
-- ✅ الاستعداد لاختبارات القبول في الماجستير بمجال الذكاء الاصطناعي
-- ✅ تعزيز المهارات في الأمن السيبراني وتحليل الاختراقات
-
----
 
 <div align="center">
 
